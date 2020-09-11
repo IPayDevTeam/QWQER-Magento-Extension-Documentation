@@ -1,0 +1,12 @@
+repository: ipaydevteam/ipaydevteam.github.io
+
+theme: jekyll-theme-cayman
+
+title: QWQER For Magento
+description: QWQER Delivery - Magento Extension (0.0.5)
+
+show_downloads: true
+
+github:
+  is_project_page: false
+  zip_url: https://github.com/IPayDevTeam/QWQER-Magento-Extension-Documentation/raw/master/extensions/qwqer-module.zip

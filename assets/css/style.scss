@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+	background-color: #f8f8fe;
+}
+
+.page-header {
+	background-color: #5C399D;
+	background-image: url('https://qwqer.eu/img/merchant_bg.7692448c.jpg');
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: #343434;
+}
+
+.site-footer-credits {
+
+}
+
+a {
+	color: #432ab1;
+}
